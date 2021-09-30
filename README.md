@@ -15,5 +15,5 @@ What is included?
 Contributor:
 Scott Rice,
 Heaven's Gates
-Graphic Designer
+Graphic Designer 
 tennis0525.sr@gmail.com
